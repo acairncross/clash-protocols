@@ -10,8 +10,8 @@ package clash-prelude
 
 source-repository-package
     type: git
-    location: https://github.com/cchalmers/circuit-notation.git
-    tag: 0fe897cb95bd1be87abed044f4072f104dec2f7d
+    location: https://github.com/acairncross/circuit-notation.git
+    tag: 19637d59304fa18bfe006e340cf023ed99da5f47
 
 source-repository-package
     type: git
